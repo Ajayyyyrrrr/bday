@@ -41,23 +41,17 @@ document.addEventListener(
          * from the previous version.
          */
 
-        const message = `Happy Birthday to one of the most wonderful people in my life! ❤️
+        const message = `**Happy birthday to my favourite person. ❤️**
 
-I honestly don't know how to put into words how grateful I am to have a monna like you.
+I don’t think I say it enough, but having you in my life means more to me than I can explain. You’ve seen so many different versions of me, stayed through my moods, listened to all my endless talks, and somehow still choose to be here. 😂❤️
 
-Thank you for all the laughs, the crazy conversations, the random moments, and for always being yourself.
+Thank you for all the little things you do, for the comfort you give me without even trying, and for all the memories that are so special simply because they’re with you.
 
-You've been there through so many moments, and I hope you know how special you are. Athrakk onnum illa okkk.
+I’m so proud of the person you are, and I genuinely hope this year gives you everything you deserve. I may not always know how to express it perfectly, but I hope you always know how much you mean to me.
 
-Today, I just want you to know that you deserve all the happiness, love, success and beautiful things life has to offer.
+**Happy birthday, ADWAITH. 🎂❤️
 
-Never stop smiling. Never stop being the amazing person you are.
-
-Happy Birthday, my love! 🥹❤️
-
-Stay happy.
-Stay crazy.
-Stay YOU. 🫶`;
+I’m really, really glad it’s you. 🫶🏻🎂❤️**`;
 
 
         let index = 0;
